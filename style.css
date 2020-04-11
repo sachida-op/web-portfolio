@@ -13,3 +13,12 @@ padding-left: 2%;
 height: 500pxs;
 background-repeat: no-repeat;
 }
+.link-button{
+    text-decoration: none;
+    background-color: rgb(193, 236, 210);
+    padding: 10px 20px ;
+    border-radius:10px ;
+    color: rgb(14, 139, 255);
+    font-weight: 800;
+
+}
