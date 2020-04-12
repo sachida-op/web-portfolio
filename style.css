@@ -10,7 +10,7 @@ padding-left: 2%;
 .half-width img{width: 100%;}
 .top-banner{
     background-image: url(images/top-banner.png);
-height: 500pxs;
+height: 500px;
 background-repeat: no-repeat;
 }
 .link-button{
@@ -22,3 +22,8 @@ background-repeat: no-repeat;
     font-weight: 800;
 
 }
+
+.D{background-image: url(images/dream-bg.png);
+height: 500px;
+background-repeat: no-repeat;
+background-position: right;}
