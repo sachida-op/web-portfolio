@@ -27,8 +27,12 @@ background-repeat: no-repeat;
 height: 500px;
 background-repeat: no-repeat;
 background-position: right;}
+
+.Experience-area{background-image: url(images/my-bg.png);
+background-repeat: no-repeat;}
 .single-exprience{
     box-shadow: 10px 10px 40px  coral;
-    height: 50%;
+    height: 40%;
+    border-left: 7px solid green;
 }
-
+footer p{text-align: center;}
